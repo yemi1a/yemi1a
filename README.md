@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Yemi 👋
 
-<!--
-**yemi1a/yemi1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"I build algorithms, tell stories, and solve problems with your data."**
 
-Here are some ideas to get you started:
+🎓 B.S. Statistics & Mathematics (FSU) | M.S. Data Science — AI & Deep Learning  
+💼 10+ years in analytics, ML, and data strategy across industries  
+🚀 Founder of **YA Innovation** — launching data science models and tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:**
+- 🧠 YA Innovation Core — production-ready data models
+- 🤝 YA Innovation Partners — collaborative applications
+- 📚 YA Innovation Help Center — stats, math & data science education
+
+**Let's connect:** [LinkedIn]https://www.linkedin.com/in/olayemia/
