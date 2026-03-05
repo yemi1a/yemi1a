@@ -11,4 +11,4 @@
 - 🤝 YA Innovation Partners — collaborative applications
 - 📚 YA Innovation Help Center — stats, math & data science education
 
-**Let's connect:** [LinkedIn]https://www.linkedin.com/in/olayemia/
+**Let's connect:** [LinkedIn|https://www.linkedin.com/in/olayemia/]
