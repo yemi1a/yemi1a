@@ -4,7 +4,7 @@
 
 🎓 B.S. Statistics & Mathematics (FSU) | M.S. Data Science (Northwestern) - AI & Deep Learning  
 💼 10+ years in analytics, ML, and data strategy across industries  
-🚀 Founder of **YA Innovation**- launching data science models and tools  
+🚀 Founder of **The Y Innovation Labs**- launching data science models and tools  
 
 **Currently building:**
 - 🧠 YA Innovation Core- production-ready data models
